@@ -1,4 +1,4 @@
-#**Mock E-Commerce Cart Project**
+ 🛍️ Mock E-Commerce Cart (MERN Stack)
 
 *A full-stack MERN application with shopping cart functionality, built for demonstration and learning.*
 
